@@ -1,22 +1,21 @@
 # training-golang-assignment-3
 
-Installation
+**Installation**
+
 Make sure you have Golang installed on your machine.
 
-Clone the repository:
-
-bash
+**Clone the repository:**
 
 git clone https://github.com/pujich/training-golang-assignment-3.git
 
-Change into the project directory:
+**Change into the project directory:**
 
 cd training-golang-assignment-3
 
-Install dependencies:
+**Install dependencies:**
 
 go mod tidy
 
-Run the application:
+**Run the application:**
 
 go run main.go
